@@ -1,0 +1,63 @@
+*{
+	font-family: arial;
+}
+
+.head {
+	background-color: grey;
+	margin: 10px 0px;
+}
+
+.head__li {
+	display: inline-block;
+}
+
+.inicio {
+	background-color: black;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+.inicio__h1 {
+	font-size: 3em;
+	line-height: 1;
+	font-weight: 700;
+}
+
+.inicio__p{
+	font-size: 2em;
+}
+
+.multimedia {
+	font-size: 20px;
+	background-color: pink;
+	margin: 20px 10px;
+	padding: 10px;
+	border-radius: 10px;
+}
+.multimedia__div {
+}
+.multimedia__h2 {
+	display: inline-block;
+	margin: 20px 0px;
+	text-shadow: 2px 2px 7px white;
+	width: 630px;
+}
+.multimedia__img {
+	box-shadow: 2px 4px 10px 0 black;
+}
+.multimedia__video {
+	box-shadow: 4px 4px 10px 0 black;
+	height: 360px;
+	width: 640px;
+}
+
+
+
+.form__h2 {
+	font-size: 2em;
+}
+
+.form__form__p {
+	color: blue;
+}
